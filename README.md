@@ -21,6 +21,7 @@ Install the Live Server extension in VS Code to preview the website in real-time
 Follow the instructions provided in the project's documentation to start building your responsive website.
 
 Features
+
 Beginner-friendly guide to responsive website development.
 Step-by-step instructions and examples.
 Explanation of HTML and CSS concepts.
