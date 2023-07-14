@@ -15,7 +15,7 @@ The Muscle Mansion website showcases the fitness facility's premium features and
 Getting Started
 To get started with building responsive websites using HTML, CSS, and Tailwind CSS in Visual Studio Code, follow these steps:
 
-Clone the repository to your local machine using the command git clone https://github.com/your-username/your-repo.git.
+Clone the repository to your local machine using the command git clone [https://github.com/your-username/your-repo.git](https://github.com/vipulkhanvilkarr).
 Open the project folder in Visual Studio Code.
 Install the Live Server extension in VS Code to preview the website in real-time.
 Follow the instructions provided in the project's documentation to start building your responsive website.
