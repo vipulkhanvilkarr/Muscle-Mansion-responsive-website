@@ -8,7 +8,7 @@ HTML
 CSS
 Tailwind CSS
 Visual Studio Code
-
+website link :- https://vipulkhanvilkarr.github.io/Muscle-Mansion-responsive-website/
 Introduction
 The Muscle Mansion website showcases the fitness facility's premium features and services using HTML and CSS. Tailwind CSS streamlines development by providing pre-built classes for customization, responsiveness, and consistent styling. Tailwind Blocks enhance website design by providing pre-designed UI components, such as pricing tables and testimonials. The layout is designed to highlight key features and amenities, while responsive design ensures the website looks great on various devices. This repository focuses on creating responsive websites using HTML, CSS, and Tailwind CSS, providing a comprehensive guide for beginners, covering HTML and CSS basics, installation, and setup in Visual Studio Code.
 
