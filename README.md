@@ -3,14 +3,14 @@
 Responsive Website Development with HTML, CSS, and Tailwind CSS
 This repository is a beginner-friendly guide for front-end developers to create responsive websites using HTML, CSS, and Tailwind CSS. It offers step-by-step instructions and examples for efficient website building using VS Code.
 
-Technologies Used
-HTML
-CSS
-Tailwind CSS
+Technologies Used:<br>
+HTML<br>
+CSS<br>
+Tailwind CSS<br>
 Visual Studio Code<br>
-website link :- https://vipulkhanvilkarr.github.io/Muscle-Mansion-responsive-website/
+website link :- https://vipulkhanvilkarr.github.io/Muscle-Mansion-responsive-website/ <br>
 
-Introduction
+Introduction<br>
 The Muscle Mansion website showcases the fitness facility's premium features and services using HTML and CSS. Tailwind CSS streamlines development by providing pre-built classes for customization, responsiveness, and consistent styling. Tailwind Blocks enhance website design by providing pre-designed UI components, such as pricing tables and testimonials. The layout is designed to highlight key features and amenities, while responsive design ensures the website looks great on various devices. This repository focuses on creating responsive websites using HTML, CSS, and Tailwind CSS, providing a comprehensive guide for beginners, covering HTML and CSS basics, installation, and setup in Visual Studio Code.
 
 Getting Started
